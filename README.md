@@ -6,7 +6,7 @@ Welcome to my Data Analytics and Machine Learning portfolio. This repository con
 
 I am an undergraduate student pursuing a B.Sc. in Statistics, Computer Science, and Mathematics with an interest in Data Analytics and Machine Learning.
 
-## 🛠️ Skills used in the projects
+## 🛠️ Skills used
 
 - Python
 - Pandas
@@ -59,6 +59,6 @@ Forecast daily store sales using historical sales data.
 
 ---
 
+## 📧 Contact
 
-GitHub: YOUR_GITHUB_LINK
-
+GitHub: https://github.com/ashokasp28/Data-Analytics-Portfolio
